@@ -3,3 +3,12 @@ body {
  background-color: white;
 }
 
+header {
+    border-bottom: solid 2px rgb(0, 28, 64);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
+}
+
+section{
+background: rgb(10 89 148);}
